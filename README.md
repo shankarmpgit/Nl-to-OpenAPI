@@ -1,5 +1,5 @@
 # NL-to-OpenAPI
-This repository contains the NL-to-OpenAPI dataset for structured data retrieval evaluation.
+This repository contains the NL-to-OpenAPI dataset for structured data retrieval evaluation. It also contains the prompts used to generate the lexical queries, semantic queries and summary portions of the data. 
 
 # Data:
 
@@ -14,5 +14,5 @@ This repository contains the NL-to-OpenAPI dataset for structured data retrieval
 
 # How to use:
 
-Use the NL queries to retrieve the OpenAPI specifications either through the raw spec or the different representations of the spec (LLM summary).
+Use the NL queries to retrieve the OpenAPI specifications either through the raw spec or the different representations of the spec (e.g. LLM summary).
 
